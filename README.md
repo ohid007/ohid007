@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Md. Ohidul Islam.
+## Hi there 👋, I'm Md. Ohidul Islam
 ####  An international student at University of South Eastern Norway. I'm a passionate harworking and dedicated Web developer.
 ![ An international student at University of South Eastern Norway. I'm a passionate harworking and dedicated Web developer.](https://scontent.fosl1-1.fna.fbcdn.net/v/t39.30808-6/314932951_5640894502697024_7122070866073928325_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=FuV4Y3QH-44AX8HSGpS&_nc_ht=scontent.fosl1-1.fna&oh=00_AfAWnBzYIOD9M4INfxmn3jCZp5-EeVt-NqVqm1tAZKW_dQ&oe=64C2F835)
 
@@ -9,6 +9,7 @@ In addition to my web development expertise, I am also currently training myself
 Overall, I am a driven and results-oriented web developer with a broad range of skills and expertise, and I am always eager to take on new challenges and push the boundaries of what is possible in web development.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohid007&label=Profile%20views&color=0e75b6&style=flat" alt="ohid007" /> </p>
 
+ <img align="right" width="400px" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="">
 - 🔭 I’m currently working on Master's Thesis **Evulation of web accessibility in terms of cognitive availability**
 
 - 🌱 I’m currently learning **TypeScript,attending a course in programming hero**
